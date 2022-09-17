@@ -1,1 +1,1 @@
-# kubernetes_voting
+# kubernetes_voting_app
